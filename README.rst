@@ -11,7 +11,7 @@ Installation
 
 Download the repository using the green download button. 
 
-You need a working Python 3 environment and OpInMod to run the examples. Please check `'Installation' <https://github.com/hnnngt/OpInMod/README.rst>`_ 
+You need a working Python 3 environment and OpInMod to run the examples. Please check `'Installation' <https://github.com/hnnngt/OpInMod#installation>`_ 
 section of the OpInMod documentation. Required packages to run each example are listed in the respective section.
 
 Contributing
